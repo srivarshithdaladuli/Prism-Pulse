@@ -1,6 +1,5 @@
 # Prism Pulse - Visual Studio Code Theme
 
-![Prism Pulse Banner](images/banner.png)
 
 ## Overview
 
