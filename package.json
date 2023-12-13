@@ -1,0 +1,21 @@
+{
+  "name": "@srivarshith-daladuli",
+  "displayName": "Prism Pulse",
+  "description": "Immerse yourself in the vibrant energy of coding with Prism Pulse, a dynamic Visual Studio Code theme that pulsates with a spectrum of colors. Whether you're navigating intricate code structures or crafting elegant algorithms, Prism Pulse enhances your coding experience with a harmonious blend of vivid hues. Embrace the rhythm of productivity as your code comes to life in a visually captivating dance of light. Let Prism Pulse illuminate your coding journey with its sleek design and energetic vibe, making every line of code a mesmerizing part of your development symphony.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Prism Pulse",
+        "uiTheme": "hc-light",
+        "path": "./themes/Prism Pulse-color-theme.json"
+      }
+    ]
+  }
+}
