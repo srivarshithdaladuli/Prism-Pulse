@@ -26,9 +26,8 @@ Immerse yourself in the vibrant energy of coding with Prism Pulse, a dynamic Vis
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 
-![Screenshot 2](images/screenshot2.png)
 
 ## Contributing
 
