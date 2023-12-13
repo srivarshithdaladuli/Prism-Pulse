@@ -30,7 +30,7 @@ Immerse yourself in the vibrant energy of coding with Prism Pulse, a dynamic Vis
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/YourGitHubUsername/Prism-Pulse/issues) or [create a pull request](https://github.com/YourGitHubUsername/Prism-Pulse/pulls).
+If you find any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/srivarshithdaladuli/Prism-Pulseissues) or [create a pull request](https://github.com/srivarshithdaladuli/Prism-Pulsepulls).
 
 ## License
 
@@ -40,5 +40,5 @@ This project is licensed under the [MIT License](https://github.com/srivarshithd
 
 **Enjoy coding with Prism Pulse! 🚀**
 
-For more information, visit the [GitHub repository](https://github.com/YourGitHubUsername/Prism-Pulse).
+For more information, visit the [GitHub repository](https://github.com/srivarshithdaladuli/Prism-Pulse).
 
